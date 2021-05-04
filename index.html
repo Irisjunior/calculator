@@ -14,39 +14,39 @@
     <div id="mode">
       
       <label class="switch">
-        <input type="checkbox" checked>
+        <input type="checkbox" id="light-mode" checked>
         <span class="slider round"></span>
       </label>
       <p id="dark-mode-title">Dark mode</p>
     </div>
 
     <div id="display">
-      <p id="resultado">  ...</p>
+      <p id="res"> </p>
     </div>
 
 
     <div id="teclado">
       
-        <button id="buttons" onclick="clean('')" type="submit">C</button>
-        <button id="buttons" onclick="insert('*')" type="submit">X</button>
-        <button id="buttons" onclick="insert('%')" type="submit">%</button>
-        <button id="buttons" onclick="insert('/')" type="submit">/</button>
-        <button class="numbers" id="buttons" onclick="insert('7')" type="submit">7</button>
-        <button class="numbers" id="buttons" onclick="insert('8')" type="submit">8</button>
-        <button class="numbers" id="buttons" onclick="insert('9')" type="submit">9</button>
-        <button id="buttons" onclick="insert('')" type="submit">X</button>
-        <button class="numbers" id="buttons" onclick="insert('4')" type="submit">4</button>
-        <button class="numbers" id="buttons" onclick="insert('5')" type="submit">5</button>
-        <button class="numbers" id="buttons" onclick="insert('6')" type="submit">6</button>
-        <button id="buttons" onclick="insert('')" type="submit">-</button>
-        <button class="s" id="buttons" onclick="insert('1')" type="submit">1</button>
-        <button class="numbers" id="buttons" onclick="insert('2')" type="submit">2</button>
-        <button class="numbers" id="buttons" onclick="insert('3')" type="submit">3</button>
-        <button id="buttons" onclick="insert('+')" type="submit">+</button>
-        <button id="buttons" onclick="insert('0')" type="submit">0</button>
-        <button id="buttons" onclick="insert('.')" type="submit">.</button>
-        <button id="buttons" onclick="insert('')" type="submit">X</button>
-        <button id="buttons" onclick="insert('=')" type="submit">=</button>
+        <button class="buttons" onclick="apagar(' ')">C</button>
+        <button class="buttons" onclick="back  (   )"><</button>
+        <button class="buttons" onclick="insert('%')">%</button>
+        <button class="buttons" onclick="insert('/')">/</button>
+        <button class="buttons" onclick="insert('7')">7</button>
+        <button class="buttons" onclick="insert('8')">8</button>
+        <button class="buttons" onclick="insert('9')">9</button>
+        <button class="buttons" onclick="insert('*')">X</button>
+        <button class="buttons" onclick="insert('4')">4</button>
+        <button class="buttons" onclick="insert('5')">5</button>
+        <button class="buttons" onclick="insert('6')">6</button>
+        <button class="buttons" onclick="insert('-')">-</button>
+        <button class="buttons" onclick="insert('1')">1</button>
+        <button class="buttons" onclick="insert('2')">2</button>
+        <button class="buttons" onclick="insert('3')">3</button>
+        <button class="buttons" onclick="insert('+')">+</button>
+        <button class="buttons" onclick="insert('0')">0</button>
+        <button class="buttons" onclick="insert('.')">.</button>
+        <button class="buttons" onclick="insert(' ')"></button>
+        <button class="buttons" onclick="calcular('=')">=</button>
       
     </div>
   </div>
