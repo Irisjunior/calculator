@@ -4,9 +4,9 @@
   --display-color:rgb(36, 36, 36);
 }
 .light-mode:root{
-  --dark-color:rgb(163, 163, 163);
-  --text-color:rgb(36, 36, 36);
-  --display-color:rgb(92, 92, 92);
+  --dark-color:rgb(235, 235, 235);
+  --text-color:rgb(0, 0, 0);
+  --display-color:rgb(197, 197, 197);
 }
 
 
@@ -20,6 +20,7 @@ body{
 
 
 #container{
+  border: solid 1px gray;
   display: flex;
   flex-direction: column;
   width: 350px;

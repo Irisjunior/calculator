@@ -1,5 +1,5 @@
 # calculator
-Calculadora desenvolvida como os principais cálculos aritméticos
+Calculadora desenvolvida como os principais cálculos aritméticos.
 
 ## 📦 Tecnologias utilizadas para construção:
 
@@ -11,9 +11,9 @@ Calculadora desenvolvida como os principais cálculos aritméticos
 
 ## 🖥 Preview do projeto 
 
-![]()
-![]()
-![]()
+![](./img/calc-dark-50%.png)
+![](./img/calc-light-50%.png)
+![](./img/calculadora-dark.png)
 
 ## 📋 Pré-requisitos
 Você precisa de um navegador instalado em seu computador. Recomenda-se o uso do 
