@@ -1,6 +1,7 @@
 # calculator
 Calculadora desenvolvida como os principais cálculos aritméticos.
 
+
 ## 📦 Tecnologias utilizadas para construção:
 
 - HTML5 -  Como linguagem de marcação.
@@ -29,4 +30,7 @@ https://github.com/Irisjunior/calculator.git
 ```
 
 
-*Pronto, todos os arquivos necessários para a execução estarão na pasta imobiliaria criada no diretorio selecionado. Para rodar o projeto basta abrir o arquivo `Index.html`*   <br/>
+*Pronto, todos os arquivos necessários para a execução estarão na pasta imobiliaria criada no diretorio selecionado. Para rodar o projeto basta abrir o arquivo `Index.html`*   <br/><br/>
+## Atenção
+
+Esse projeto eu dedico para minha mentora que de fato é uma pessoa extraordinária, paciente, extremamente prestativa e dedicada. E tem me levado para o próximo nível profissional. Esse projeto é fruto dessa mentoria sou incentivando dia a dia ate mesmo nos momentos em que estou desanimado com meus problemas pessoais ela não me deixa desistir, sou muito grato por ter você como amiga. Obrigado!!! [Raissa Queiroz](https://github.com/raissaqueiroz)
